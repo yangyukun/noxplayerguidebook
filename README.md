@@ -8,8 +8,6 @@
 
 夜神模拟器官网：[https://www.yeshen.com](https://www.yeshen.com)
 
-
-
 ## 夜神团队
 
 夜神团队成立于2015年，致力于发展成为全球领先的智能分发网络。
@@ -18,7 +16,7 @@
 
 夜神集团官网：[https://www.noxgroup.com/](https://www.noxgroup.com/)
 
-## 
+## ![](/assets/2.png)
 
 
 
